@@ -1,0 +1,4 @@
+#Data structures are fundamental building blocks in Python that organize and store collections of data
+Lists: Ordered, mutable collections of items enclosed in square brackets []. They can hold elements of different data types and allow duplicate values.
+Tuples: Ordered, immutable collections of items similar to lists but enclosed in parentheses (). Once created, their elements cannot be changed.
+Sets: Unordered collections of unique elements enclosed in curly braces {}. Sets are useful for removing duplicates and checking element membership.
